@@ -13,6 +13,7 @@ The group goes together. Never split the party.
     * Most Orthdox: small thumb
     * Thumb Stickers: The most basic is best.
     * (Y)
+  * Changing group photo
   * Name Changing
     * Wanna go to [NAME]?
     * 10 minutes or All thumbs are accounted for before changing names
