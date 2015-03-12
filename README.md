@@ -23,7 +23,7 @@ The group goes together. Never split the party.
     * Heresy Message: You have been tried and found guilty of heresy. No longer shall you violate the sanctity of our Dibella's chat.
     * Must be sent before removing a person
   * Adding of a person
-    * Pure of a heart
+    * Pure of heart
     * Might be a friend
     * Wants to go to dibellas
   * Removal of a person
