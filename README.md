@@ -31,6 +31,11 @@ The group goes together. Never split the party.
       * 24 hours
     * Unorthodox removal: Call them a dick and move on
 
+* Probation
+  * Cannot Change name
+  * Cannot initiate a trip.
+  * In 24 hours, probabtion will be revisited.
+
 ## Enemies of the State
 * DSA
 * That person who ate Wendy's at our booth in dibellas
